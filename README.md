@@ -1,1 +1,3 @@
 # Chicago-Crime-Data
+## business problem
+The business problem addressed involves a comprehensive analysis of Chicago crime data using Python, incorporating holiday information for feature engineering. The objective is to conduct detailed investigations into various aspects, including comparisons of police districts, exploration of long-term crime trends, and identification of monthly crime patterns. The utilization of time series analysis techniques, particularly ARIMA/SARIMA models, aims to forecast crime metrics. The ultimate goal is to present stakeholders with actionable insights and recommendations, supported by clear visualizations, to enhance decision-making and strategic planning in addressing and mitigating crime-related challenges in the city of Chicago.
